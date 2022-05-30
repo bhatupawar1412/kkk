@@ -10,7 +10,9 @@ public class TestClass {
 	private static Logger Log=LogManager.getLogger(TestClass.class.getName());
 
 	public static void main(String[] args) {
-//suhas
+   
+		// logS
+		
 		Log.debug("this is debugging");
 		Log.info("tis is info");
 		Log.error("this is error");
